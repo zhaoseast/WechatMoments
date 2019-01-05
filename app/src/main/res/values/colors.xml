@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color><!--白色 -->
+    <color name="gray">#4f808080</color><!--灰色 -->
+    <color name="transparent">#0000</color><!-- 透明 -->
+    <color name="transparent2">#8000</color><!-- 透明 -->
+    <color name="blule">#003831</color> <!-- 主色调 -->
+    <color name="green">#ff7e00</color>  <!-- 橙色搭配色 -->
+    <color name="color_FFEFECEC">#FFEFECEC</color>
+    <color name="line">#e5e5e5</color>
+
+    <color name="black">#FF666666</color>  <!-- 主文字颜色 -->
+
+    <color name="dnake_gray">#a6a6a6</color>   <!-- 说明文字及次要文字颜色 -->
+    <color name="linecolor">#d9d9d9</color>  <!-- 分割线颜色 -->
+    <color name="lighter_gray">#f2f2f2</color>  <!-- 全局浅灰色 -->
+    <color name="clock_bg">#3f515f</color>  <!-- 打卡记录名称背景 -->
+    <color name="clockrecord_bg">#666666</color>  <!-- 灰色文字-略深 -->
+    <color name="clock_green">#5eb460</color><!-- 打卡绿色文字 -->
+    <color name="clock_red">#f74141</color><!-- 打卡红色文字 -->
+    <color name="bg_gray">#e1e1e1</color>
+    <color name="grey">#E4E4E4</color><!-- 灰色 -->
+    <color name="lightblack">#ff202020</color>
+    <color name="color_0099FF">#0099FF</color>
+    <color name="item_select">#f2f2f2</color><!-- 灰色 -->
+    <color name="textcolor">#666666</color><!-- 灰色 -->
+    <color name="common_bg">#f0f0f0</color>
+    <color name="spots_dialog_color">#FF4285F4</color>
+
+    <color name="theme_default_primary">#FF4285F4</color>
+
+    <color name="cardview">#C6C6C6</color>
+    <color name="list_background_normal">#FCFCFC</color>
+    <color name="list_background">#F2F2F2</color>
+    <color name="button_background2">#E1E1E1</color>
+    <color name="button_background">#FF4285F4</color>
+    <color name="hint">#B8B8B8</color>
+    <color name="text">#212121</color>
+
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#C6C6C6</color>
+
+    <color name="material_blue_500">#5677fc</color>
+    <color name="material_blue_600">#4e6cef</color>
+
+    <color name="color_18bec">#FF4285F4</color>
+    <color name="color_3fa6f1">#3FA6F1</color>
+    <color name="color_fffe6b41">#FFFE6B41</color>
+    <color name="color_d8d8d8">#D8D8D8</color>
+    <color name="color_2E3EE8">#2E3EE8</color>
+    <color name="color_292929">#292929</color>
+    <color name="color_d5d5d5">#d5d5d5</color>
+    <color name="color_bbc3ca">#bbc3ca</color>
+    <color name="color_6c6c6d">#6c6c6d</color>
+    <color name="color_898e90">#898e90</color>
+    <color name="color_ffb20d">#ffb20d</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_55bf55">#55bf55</color>
+    <color name="color_404040">#404040</color>
+    <color name="color_f4f5f5">#f4f5f5</color>
+    <color name="color_d3d3d3">#d3d3d3</color>
+    <color name="color_bebebe">#bebebe</color>
+    <color name="color_b2b2b2">#b2b2b2</color>
+    <color name="color_ff999999">#FF999999</color>
+    <color name="color_ff32a297">#FF32A297</color>
+    <color name="color_fffa862a">#FFFA862A</color>
+    <color name="color_cfebf4">#cfebf4</color>
+    <color name="color_eaf0f2">#eaf0f2</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_2baf2b">#2baf2b</color>
+    <color name="color_ffae00">#ffae00</color>
+    <color name="color_747474">#747474</color>
+    <color name="color_ff0000">#ff0000</color>
+    <color name="color_f39c12">#f39c12</color>
+    <color name="color_dd4b39">#dd4b39</color>
+    <color name="color_d3321b">#d3321b</color>
+    <color name="color_cdcdcd">#cdcdcd</color>
+    <color name="color_00695C">#FF4285F4</color>
+    <color name="color_D2D2D2">#D2D2D2</color>
+    <color name="color_ededed">#ededed</color>
+    <color name="color_505050">#505050</color>
+    <color name="color_E5E5E5">#E5E5E5</color>
+    <color name="color_F7F7F7">#F7F7F7</color>
+    <color name="color_F6F4F0">#F6F4F0</color>
+    <color name="color_dadace">#dadace</color>
+    <color name="color_CCCCCC">#CCCCCC</color>
+    <color name="color_00B050">#00B050</color>
+    <color name="color_FFC000">#FFC000</color>
+    <color name="color_4285F4">#4285F4</color>
+    <color name="color_5e98f9">#71a5fc</color>
+
+    <color name="color_before">#bfbfbf</color>
+    <color name="color_after">#1296db</color>
+    <color name="color_txtafter">#1AFA29</color>
+</resources>
